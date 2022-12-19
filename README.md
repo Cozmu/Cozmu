@@ -18,7 +18,7 @@
 <main style="border: 1px solid #6c757d;">
   <table style="border: 1px solid #6c757d; margin: auto;">
     <tbody>
-      <tr>
+      <tr valign="top">
         <td align="center" width="70px">
           <p><b>HTML</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -36,7 +36,7 @@
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </td>
       </tr>
-      <tr>
+      <tr valign="top">
          <td align="center" width="70px">
           <p><b>Redux</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -46,12 +46,30 @@
           <img width="40px" style="margin-top:10px" src="https://reactrouter.com/_brand/react-router-mark-color.png" />
         </td>
         <td align="center" width="70px">
-          <p><b>Redux</p>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+          <p><b>ESLint</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
         </td>
         <td align="center" width="70px">
-          <p><b>HTML</p>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          <p><b>Node</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        </td>
+      </tr>
+      <tr valign="top">
+         <td align="center" width="70px">
+          <p><b>GitHub</p>
+          <img width="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Git</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Figma</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>VSCode</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
         </td>
       </tr>
     </tbody>
