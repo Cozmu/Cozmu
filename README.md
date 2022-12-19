@@ -1,4 +1,4 @@
-### 👾 Fala devs, sejam bem-vindos ao meu perfil!! 👾
+# 👾 Fala devs, sejam bem-vindos ao meu perfil!! 👾
 
 - Me chamo Jorge Wellington, tenho 19 anos.
 - Sou apaixonado por tecnologia, games e música.
