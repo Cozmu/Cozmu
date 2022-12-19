@@ -15,8 +15,8 @@
 
 </br>
 
-<main style="border: 1px solid #6c757d; display:flex; justify-content: center;">
-  <table style="border: 1px solid #6c757d;">
+<main style="border: 1px solid #6c757d;">
+  <table style="border: 1px solid #6c757d; margin: auto;">
     <tbody>
       <tr>
         <td align="center" width="70px">
@@ -57,82 +57,7 @@
     </tbody>
   </table>
 </main>
-<!-- 
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Sass</strong></span><br>
-            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/121px-Sass_Logo_Color.svg.png" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Vs Code</strong></span><br>
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/220px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Node</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>Trello</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>Bootstrap</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
 
-           -->
 
 
 
