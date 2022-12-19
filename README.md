@@ -57,7 +57,7 @@
       <tr valign="top">
          <td align="center" width="70px">
           <p><b>GitHub</p>
-          <img width="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          <img width="40px" style="color: white" src="https://api.iconify.design/mdi/github.svg?color=white&width=40&height=40" />
         </td>
         <td align="center" width="70px">
           <p><b>Git</p>
@@ -70,6 +70,24 @@
         <td align="center" width="70px">
           <p><b>VSCode</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        </td>
+      </tr>
+       <tr valign="top">
+         <td align="center" width="70px">
+          <p><b>Jest</p>
+          <img width="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>RTL</p>
+          <img width="40px" src="https://api.iconify.design/logos/testing-library.svg?width=40&height=40" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Trello</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Slack</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
         </td>
       </tr>
     </tbody>
