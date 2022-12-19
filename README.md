@@ -15,7 +15,6 @@
 
 </br>
 
-<main style="border: 1px solid #6c757d; display: flex; justify-content: center;">
   <table  width="320px">
     <tbody>
       <tr valign="top">
@@ -92,7 +91,6 @@
       </tr>
     </tbody>
   </table>
-</main>
 
 
 
