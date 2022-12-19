@@ -4,10 +4,6 @@
 - Sou apaixonado por tecnologia, games e música.
 - Atualmente estudo desenvolvimento web (Full Stack) na <a href='https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAtICdBhCLARIsALUBFcE5USDFDXta9Qe6w--26TgBicSXnmb92cH77FXJKAktkAjX24iiva8aApLfEALw_wcB'>Trybe</a>.
 
-<hr>
-
-</br>
-
 ## Tecnologias e Ferramentas :
 
 </br>
