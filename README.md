@@ -15,7 +15,7 @@
 
 </br>
 
-<main style="border: 1px solid #6c757d;">
+<main style="border: 1px solid #6c757d; display: flex; justify-content: center;">
   <table style="border: 1px solid #6c757d; margin: auto;">
     <tbody>
       <tr valign="top">
