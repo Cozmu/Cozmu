@@ -85,7 +85,7 @@
     </tbody>
   </table>
 
-## Estatísticas :
+<hr>
 
 <div align="center">
   <a href="https://github.com/Cozmu">
