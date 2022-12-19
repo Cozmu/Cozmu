@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header"/>
+
 # 👾 Fala devs, sejam bem-vindos ao meu perfil!! 👾
 
 - Me chamo Jorge Wellington, tenho 19 anos.
@@ -95,10 +97,11 @@
 
 <div align="center">
   <a href="https://github.com/Cozmu">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Cozmu&show_icons=true&theme=midnight-purple&locale=pt-br"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozmu&layout=compact&theme=midnight-purple&locale=pt-br"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Cozmu&show_icons=true&theme=midnight-purple&locale=pt-br&hide_border=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozmu&layout=compact&theme=midnight-purple&locale=pt-br&hide_border=true"/>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=footer"/>
 
 
 
