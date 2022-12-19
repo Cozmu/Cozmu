@@ -1,4 +1,4 @@
-# 👾 Fala devs, sejam bem-vindos ao meu perfil!! 👾
+### 👾 Fala devs, sejam bem-vindos ao meu perfil!! 👾
 
 - Me chamo Jorge Wellington, tenho 19 anos.
 - Sou apaixonado por tecnologia, games e música.
@@ -19,46 +19,120 @@
   <table style="border: 1px solid #6c757d;">
     <tbody>
       <tr>
-        <td style="border: 1px solid #6c757d;" width="70px">
-          <p style="text-align: center;"><b>HTML</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <td align="center" width="70px">
+          <p><b>HTML</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         </td>
-        <td style="display: flex; justify-content: center; align-items: center; flex-direction: column;" width="70px">
-          <p style="text-align: center;"><b>JavaScript</p>
+        <td align="center" width="70px">
+          <p ><b>JavaScript</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         </td>
-        <td style="border: 1px solid #6c757d;" width="70px">
-          <p style="text-align: center;"><b>CSS</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <td align="center" width="70px">
+          <p><b>CSS</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         </td>
-        <td style="border: 1px solid #6c757d;" width="70px">
+        <td align="center" width="70px">
           <p style="text-align: center;"><b>React</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </td>
       </tr>
       <tr>
-         <td style="border: 1px solid #6c757d;" width="70px">
-          <p style="text-align: center;"><b>Redux</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+         <td align="center" width="70px">
+          <p><b>Redux</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
         </td>
-        <td style=" display: flex; justify-content: space-between; align-items: center; flex-direction: column;" width="70px">
-          <p style="text-align: center;"><b>React Router</p>
-          <img width="40px" src="https://reactrouter.com/_brand/react-router-mark-color.png" />
+        <td align="center" width="70px">
+          <p><b>React Router</p>
+          <img width="40px" height="40px"; src="https://reactrouter.com/_brand/react-router-mark-color.png" />
         </td>
-        <td style="border: 1px solid #6c757d;" width="70px">
-          <p style="text-align: center;"><b>Redux</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+        <td align="center" width="70px">
+          <p><b>Redux</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
         </td>
-        <td style="border: 1px solid #6c757d;" width="70px">
-          <p style="text-align: center;"><b>HTML</p>
-          <img width="40px" style="margin-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <td align="center" width="70px">
+          <p><b>HTML</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
         </td>
       </tr>
     </tbody>
   </table>
 </main>
+<!-- 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Sass</strong></span><br>
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/121px-Sass_Logo_Color.svg.png" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Vs Code</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/220px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Trello</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-          
+           -->
 
 
 
