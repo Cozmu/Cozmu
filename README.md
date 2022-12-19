@@ -15,7 +15,7 @@
 
 </br>
 
-  <table  width="320px" style="margin: auto">
+  <table  width="max-content">
     <tbody>
       <tr valign="top">
         <td align="center" width="70px">
