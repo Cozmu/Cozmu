@@ -42,8 +42,8 @@
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
         </td>
         <td align="center" width="70px">
-          <p><b>React Router</p>
-          <img width="40px" height="40px"; src="https://reactrouter.com/_brand/react-router-mark-color.png" />
+          <p style="margin-bottom:10px"><b>React Router</p>
+          <img width="40px" style="margin-top:10px" src="https://reactrouter.com/_brand/react-router-mark-color.png" />
         </td>
         <td align="center" width="70px">
           <p><b>Redux</p>
