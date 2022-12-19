@@ -6,12 +6,6 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/Cozmu">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Cozmu&show_icons=true&theme=midnight-purple&locale=pt-br"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozmu&layout=compact&theme=midnight-purple&locale=pt-br"/>
-</div>
-
 </br>
 
 ## Tecnologias e Ferramentas :
@@ -95,6 +89,13 @@
     </tbody>
   </table>
 
+## Estatísticas :
+
+<div align="center">
+  <a href="https://github.com/Cozmu">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Cozmu&show_icons=true&theme=midnight-purple&locale=pt-br"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozmu&layout=compact&theme=midnight-purple&locale=pt-br"/>
+</div>
 
 
 
