@@ -85,8 +85,6 @@
     </tbody>
   </table>
 
-## Estatísticas :
-
 <div align="center">
   <a href="https://github.com/Cozmu">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Cozmu&show_icons=true&theme=midnight-purple&locale=pt-br"/>
