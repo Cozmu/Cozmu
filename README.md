@@ -8,8 +8,7 @@
 ## Quer Conversar? Conecte-me aqui.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-reis-dev/)
-<a href="mailton:www.jorgereis@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"></a>
+<a href="mailton:www.jorgereis@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Tecnologias e Ferramentas :
 
