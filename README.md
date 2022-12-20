@@ -9,7 +9,7 @@
 
 ## Quer Conversar? Conecte-me aqui. 😁
 
-<a href="https://www.linkedin.com/in/jorge-reis-dev/" target="_black"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jorge-reis-dev/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:www.jorgereis@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Tecnologias e Ferramentas :
