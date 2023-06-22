@@ -35,6 +35,10 @@
           <p style="text-align: center;"><b>React</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </td>
+        <td align="center" width="70px">
+          <p style="text-align: center;"><b>Express</p>
+            <img style="background-color: white" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+        </td>
       </tr>
       <tr valign="top">
          <td align="center" width="70px">
@@ -48,6 +52,10 @@
         <td align="center" width="70px">
           <p><b>ESLint</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>TypeScript</p>
+            <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         </td>
         <td align="center" width="70px">
           <p><b>Node</p>
@@ -71,6 +79,10 @@
           <p><b>VSCode</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
         </td>
+        <td align="center" width="70px">
+          <p><b>MySQL</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        </td>
       </tr>
        <tr valign="top">
          <td align="center" width="70px">
@@ -88,6 +100,10 @@
         <td align="center" width="70px">
           <p><b>Slack</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+        </td>
+         <td align="center" width="70px">
+          <p><b>MongoDB</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </td>
       </tr>
     </tbody>
