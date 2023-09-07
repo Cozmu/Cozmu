@@ -37,7 +37,7 @@
         </td>
         <td align="center" width="70px">
           <p style="text-align: center;"><b>Express</p>
-            <img style="background-color: white" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+            <img style="background-color: white" width="40px" src="express.png" />
         </td>
       </tr>
       <tr valign="top">
