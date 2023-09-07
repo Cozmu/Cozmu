@@ -106,6 +106,29 @@
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </td>
       </tr>
+        -----------------------------------------------------
+        <tr valign="top">
+         <td align="center" width="70px">
+          <p><b>Python</p>
+          <img width="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Pytest</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Selenium</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+        </td>
+        <td align="center" width="70px">
+          <p><b>Flask</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+        </td>
+         <td align="center" width="70px">
+          <p><b>Linux</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        </td>
+      </tr>
     </tbody>
   </table>
 
