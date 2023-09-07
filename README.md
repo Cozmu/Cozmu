@@ -106,7 +106,6 @@
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </td>
       </tr>
-        -----------------------------------------------------
         <tr valign="top">
          <td align="center" width="70px">
           <p><b>Python</p>
@@ -122,7 +121,7 @@
         </td>
         <td align="center" width="70px">
           <p><b>Flask</p>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+          <img width="40px" src="icons8-flask-50.png" />
         </td>
          <td align="center" width="70px">
           <p><b>Linux</p>
