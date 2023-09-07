@@ -121,7 +121,7 @@
         </td>
         <td align="center" width="70px">
           <p><b>Flask</p>
-          <img width="40px" src="icons8-flask-50.png" />
+          <img width="40px" src="icons8-flask-100.png" />
         </td>
          <td align="center" width="70px">
           <p><b>Linux</p>
