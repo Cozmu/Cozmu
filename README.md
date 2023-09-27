@@ -121,7 +121,7 @@
         </td>
         <td align="center" width="70px">
           <p><b>Sass</p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
         </td>
          <td align="center" width="70px">
           <p><b>Django</p>
