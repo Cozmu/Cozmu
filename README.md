@@ -124,8 +124,8 @@
           <img width="40px" src="icons8-flask-100.png" />
         </td>
          <td align="center" width="70px">
-          <p><b>Linux</p>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          <p><b>Django</p>
+          <img width="40px" src="django.png" />
         </td>
       </tr>
     </tbody>
