@@ -47,11 +47,11 @@
         </td>
         <td align="center" width="70px">
           <p style="margin-bottom:10px"><b>React Router</p>
-          <img width="40px" style="margin-top:10px" src="https://reactrouter.com/_brand/react-router-mark-color.png" />
+          <img width="40px" style="margin-top:10px" src="react-router-svgrepo-com .png" />
         </td>
         <td align="center" width="70px">
-          <p><b>ESLint</p>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+          <p><b>TailwindCSS</p>
+          <img width="40px" style="margin-top:10px" src="tailwindcss-mark.d52e9897.svg" />
         </td>
         <td align="center" width="70px">
           <p><b>TypeScript</p>
@@ -89,9 +89,13 @@
           <p><b>Jest</p>
           <img width="40px" style="color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         </td>
-        <td align="center" width="70px">
+        <!-- <td align="center" width="70px">
           <p><b>RTL</p>
           <img width="40px" src="https://api.iconify.design/logos/testing-library.svg?width=40&height=40" />
+        </td> -->
+        <td align="center" width="70px">
+          <p><b>ESLint</p>
+          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
         </td>
         <td align="center" width="70px">
           <p><b>Trello</p>
@@ -105,7 +109,7 @@
           <p><b>MongoDB</p>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
         </td>
-      </tr>
+      <!-- </tr>
         <tr valign="top">
          <td align="center" width="70px">
           <p><b>Python</p>
@@ -127,7 +131,7 @@
           <p><b>Django</p>
           <img width="40px" src="django.png" />
         </td>
-      </tr>
+      </tr> -->
     </tbody>
   </table>
 
